@@ -1,4 +1,4 @@
-## Copyright 2021, [Claudia Rojas]
+## Copyright 2023, [Daniel Villalba Lynch]
 
 ###### Please delete this line and the next one
 ###### Awesome_Books_ES6 can be a webpage/website, a web app, a software and so on

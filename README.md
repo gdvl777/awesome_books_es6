@@ -78,7 +78,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> You can see a Demo here: [Demo](https://claudiarojassoto.github.io/Awesome_Books_ES6/)
+> You can see a Demo here: [Demo](https://gdvl777.github.io/Awesome_Books_ES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,7 +92,7 @@ In order to run this project you need: you need to know the basic of HTML5, Java
 
 ### Setup
 
-Clone this repository to your desired folder: https://github.com/ClaudiaRojasSoto/Awesoem_Books_ES6.git
+Clone this repository to your desired folder: https://github.com/GDVL777/Awesoem_Books_ES6.git
 
 ### Install
 
@@ -112,8 +112,8 @@ To run tests, run the following command: you just need a simple web browser to r
 
 👤 **Author1**
 
--   GitHub: [@githubhandle](https://github.com/ClaudiaRojasSoto)
--   LinkedIn: [LinkedIn](https://www.linkedin.com/in/claudia-soto-260504208/)
+-   GitHub: [@gdvl777](https://github.com/gdvl777)
+-   LinkedIn: [LinkedIn](https://www.linkedin.com/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -132,7 +132,7 @@ To run tests, run the following command: you just need a simple web browser to r
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ClaudiaRojasSoto/Awesoem_Books_ES6/issues).
+Feel free to check the [issues page](https://github.com/gdvl777/Awesoem_Books_ES6/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -156,6 +156,6 @@ Feel free to check the [issues page](https://github.com/ClaudiaRojasSoto/Awesoem
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/ClaudiaRojasSoto/awesome_Books_ES6/blob/master/MIT.md)) licensed.
+This project is [MIT](https://github.com/gdvl777/awesome_Books_ES6/blob/master/MIT.md)) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
