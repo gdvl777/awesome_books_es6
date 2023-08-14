@@ -132,7 +132,7 @@ To run tests, run the following command: you just need a simple web browser to r
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/gdvl777/Awesoem_Books_ES6/issues).
+Feel free to check the [issues page](https://github.com/gdvl777/Awesome_Books_ES6/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
